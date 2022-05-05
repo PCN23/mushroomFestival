@@ -1,6 +1,7 @@
 // import functions and grab DOM elements
 import { renderMushroom, renderFriend } from './render-utils.js';
 
+
 const friendsEl = document.querySelector('.friends');
 const friendInputEl = document.getElementById('friend-input');
 const mushroomsEl = document.querySelector('.mushrooms');
